@@ -10,7 +10,7 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/hackunicornclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackunicornclub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/hackunicornclub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/hackunicornclub/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/company/hackunicornclub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/hackunicornclub/" height="30" width="40" /></a>
 <a href="https://instagram.com/hack_unicorn_club/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hack_unicorn_club/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hackunicornclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackunicornclub" height="30" width="40" /></a>
 </p>
